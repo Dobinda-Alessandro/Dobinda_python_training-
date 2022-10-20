@@ -17,3 +17,7 @@ print(list3)
 # type ci dice che tipo è la nostra variabile 
 mylist = ["apple", "banana", "cherry"]
 print(type(mylist))
+
+# list() fa diventare quello una lista 
+thislist = list(("apple", "banana", "cherry"))
+print(thislist)
