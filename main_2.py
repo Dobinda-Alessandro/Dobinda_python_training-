@@ -1,3 +1,4 @@
+#Liste 
 # Creo un elenco che mi permette di associare più elementi ad una variabile 
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
@@ -21,3 +22,4 @@ print(type(mylist))
 # list() fa diventare quello una lista 
 thislist = list(("apple", "banana", "cherry"))
 print(thislist)
+
